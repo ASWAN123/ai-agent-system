@@ -42,3 +42,8 @@
 │  │                 │   │                 │   │                      │    │
 │  └─────────────────┘   └─────────────────┘   └─────────────────────┘    │
 └─────────────────────────────────────────────────────────────────────────┘
+
+
+LLM alone = Just generates text
+LLM + Tools = Can take actions but limited planning
+LLM + Tools + Planning + Memory = Complete agent system
